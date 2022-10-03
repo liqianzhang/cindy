@@ -1,5 +1,5 @@
-import java.util.LinkedList;
-import java.util.List;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * @MethodName: $
@@ -11,6 +11,8 @@ import java.util.List;
  */
 public class GitTest {
     public static void main(String[] args) {
-        List linli = new LinkedList();
+        Map jiayu = new HashMap<>();
+        Map jiayu2 = new HashMap<>();
+
     }
 }
