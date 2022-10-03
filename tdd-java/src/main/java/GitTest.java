@@ -12,5 +12,7 @@ import java.util.Map;
 public class GitTest {
     public static void main(String[] args) {
         Map jiayu = new HashMap<>();
+        Map jiayu2 = new HashMap<>();
+
     }
 }
