@@ -22,8 +22,12 @@ public class GitTest {
         Map jiayu2 = new HashMap<>();
 
         List linli = new LinkedList();
-        Map jiayu = new HashMap<>();
-        Map jiayu2 = new HashMap<>();
+        Map jiayu1 = new HashMap<>();
+        Map jiayu3 = new HashMap<>();
+
+        List linli5 = new LinkedList();
+        Map jiayu16 = new HashMap<>();
+        Map jiayu37 = new HashMap<>();
 
          List list = new ArrayList();
 //        list.add(null);
